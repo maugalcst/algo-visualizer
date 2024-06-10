@@ -9,9 +9,7 @@
 To develop this application, we will use the following technologies:
 
 1. **Python**: The main language in which the application is written.
-2. **Tkinter**: A standard Python library for creating graphical user interfaces (GUI).
-3. **Matplotlib**: A Python library for creating static, animated, and interactive plots.
-4. **Random**: To generate random data that will be sorted by the algorithms.
+2. **Figma**: To create the prototypes and the overall design of the app.
 
 ## Features
 
